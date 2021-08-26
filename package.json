@@ -1,0 +1,24 @@
+{
+  "name": "curso_de_asincronismo_con_javascript",
+  "version": "1.0.0",
+  "description": "aprender asincronismo en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rhaegar09/Curso_de_asincronismo_con_JavaScript.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Edward Reina Hortua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rhaegar09/Curso_de_asincronismo_con_JavaScript/issues"
+  },
+  "homepage": "https://github.com/Rhaegar09/Curso_de_asincronismo_con_JavaScript#readme"
+}
